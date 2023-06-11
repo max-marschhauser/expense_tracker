@@ -1,4 +1,4 @@
-Expense tracker app, built using Flutter
+Expense tracker app, built using Flutter. Responsive and adaptive App. User can add different expenses and app will display a list of expenses and a graph.
 
 Udemy flutter course.
 
